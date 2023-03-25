@@ -50,7 +50,7 @@ smartTOCHideUnfocusedChildren = true
   showViews = true
   showLikes = true
   showDateUpdated = true
-  showAuthor = true
+  showAuthor = false
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
@@ -69,7 +69,7 @@ smartTOCHideUnfocusedChildren = true
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
-  showSummary = false
+  showSummary = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
 
 [list]
