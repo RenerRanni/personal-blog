@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iniciando on </title>
+    <link>https://devilznft.com/tags/iniciando/</link>
+    <description>Recent content in iniciando on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://devilznft.com/tags/iniciando/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Word - Categoria</title>
+      <link>https://devilznft.com/exemplo-categoria/hello-word/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://devilznft.com/exemplo-categoria/hello-word/</guid>
+      <description>Bip bip.</description>
+    </item>
+    
+  </channel>
+</rss>
