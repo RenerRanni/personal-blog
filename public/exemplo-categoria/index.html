@@ -13,11 +13,11 @@
   <title>Exemplo - Categoria &middot; </title>
   <meta name="title" content="Exemplo - Categoria &middot; " />
   
+  <meta name="description" content="My awesome website" />
   
   
   
-  
-  <link rel="canonical" href="https://devilznft.com/exemplo-categoria/" />
+  <link rel="canonical" href="http://blog.renergarden.online/exemplo-categoria/" />
   
   <link rel="alternate" type="application/rss+xml" href="/exemplo-categoria/index.xml" title="" />
   
@@ -30,8 +30,10 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.873aa89cde06007a422ad8d408b9ab97e83f10bf510800a6522474ecc9f042bf479fc4f5bd382b3b0728115f0243a6da08c2d3494c68da15962fc34b08f37de5.css"
-    integrity="sha512-hzqonN4GAHpCKtjUCLmrl&#43;g/EL9RCACmUiR07MnwQr9Hn8T1vTgrOwcoEV8CQ6baCMLTSUxo2hWWL8NLCPN95Q==" />
+  
+  
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.9bd0a47ec288270e24a9284bb99e57fd63753b300970003568d99a5575675e0793612807b50d2562f7d416fbbaf7910e06d1afcebef0aade6c857c4f6e52e8a9.css"
+    integrity="sha512-m9CkfsKIJw4kqShLuZ5X/WN1OzAJcAA1aNmaVXVnXgeTYSgHtQ0lYvfUFvu695EOBtGvzr7wqt5shXxPblLoqQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.a75d508cf75a202afc48fe649516720f8036bda3657897f6cc07dab21f94fa9c3933edbbfc2936f8d3a426f45ac6153237a48aec9115147c5e03db1c5b62b8bc.js"
@@ -68,7 +70,7 @@
   <meta property="og:title" content="Exemplo - Categoria" />
 <meta property="og:description" content="Aqui entra a descrição." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://devilznft.com/exemplo-categoria/" />
+<meta property="og:url" content="http://blog.renergarden.online/exemplo-categoria/" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Exemplo - Categoria"/>
@@ -126,6 +128,29 @@
   
   
   <meta name="theme-color"/>
+  
+  
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyBKa37AzwNOxN7KGypoWPP6SlDNDuk5T8w",
+      authDomain: "AIzaSyBKa37AzwNOxN7KGypoWPP6SlDNDuk5T8w",
+      projectId: "blowfish-personal-blog",
+      storageBucket: "blowfish-personal-blog.appspot.com",
+      messagingSenderId: "707123951398",
+      appId: "1:707123951398:web:1bf67a259e07becc4ff3e7",
+      measurementId: "G-TRMPDXTNNX"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
   
   
 </head>
@@ -806,7 +831,7 @@
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
           <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/categories/"
-            title="Categorias">Categorias</a>
+            title="Categories">Categorias</a>
         </li>
         
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
@@ -858,7 +883,7 @@
 </footer><div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="https://devilznft.com/"
+  data-url="http://blog.renergarden.online"
   style="z-index:500"
 >
   <div

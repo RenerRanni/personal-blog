@@ -2,26 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://devilznft.com/tags/</link>
+    <link>http://blog.renergarden.online/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://devilznft.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.renergarden.online/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hello word</title>
-      <link>https://devilznft.com/tags/hello-word/</link>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <link>http://blog.renergarden.online/tags/hello-word/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://devilznft.com/tags/hello-word/</guid>
+      <guid>http://blog.renergarden.online/tags/hello-word/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iniciando</title>
-      <link>https://devilznft.com/tags/iniciando/</link>
+      <link>http://blog.renergarden.online/tags/iniciando/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://devilznft.com/tags/iniciando/</guid>
+      <guid>http://blog.renergarden.online/tags/iniciando/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docs</title>
+      <link>http://blog.renergarden.online/tags/docs/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.renergarden.online/tags/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homepage</title>
+      <link>http://blog.renergarden.online/tags/homepage/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.renergarden.online/tags/homepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>layouts</title>
+      <link>http://blog.renergarden.online/tags/layouts/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.renergarden.online/tags/layouts/</guid>
       <description></description>
     </item>
     

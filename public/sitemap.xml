@@ -5,11 +5,9 @@
     
   
     
-  
-    
       <url>
-            <loc>https://devilznft.com/exemplo-categoria/</loc>
-            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+            <loc>http://blog.renergarden.online/</loc>
+            <lastmod>2023-03-25T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -17,28 +15,8 @@
   
     
       <url>
-            <loc>https://devilznft.com/posts/first/</loc>
-            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://devilznft.com/exemplo-categoria/hello-word/</loc>
-            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://devilznft.com/</loc>
-            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+            <loc>http://blog.renergarden.online/posts/second-post/</loc>
+            <lastmod>2023-03-25T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -47,8 +25,39 @@
     
   
     
+  
+    
+  
+    
       <url>
-            <loc>https://devilznft.com/sobre/</loc>
+            <loc>http://blog.renergarden.online/categories/</loc>
+            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog.renergarden.online/exemplo-categoria/</loc>
+            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog.renergarden.online/posts/first/</loc>
+            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog.renergarden.online/exemplo-categoria/hello-word/</loc>
             <lastmod>2023-03-24T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -59,13 +68,45 @@
   
     
       <url>
-            <loc>https://devilznft.com/posts/</loc>
+            <loc>http://blog.renergarden.online/sobre/</loc>
+            <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://blog.renergarden.online/posts/</loc>
             <lastmod>2022-06-13T20:55:37+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
     
   
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://blog.renergarden.online/posts/test-comments/</loc>
+            <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://blog.renergarden.online/categories/categoria-a/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
