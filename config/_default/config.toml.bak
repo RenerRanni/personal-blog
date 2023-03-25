@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://renerranni.github.io/personal-blog/"
+baseURL = "https://devilznft.com/"
 defaultContentLanguage = "pt-br"
 
 # Ignorar aqui e no GIT!
