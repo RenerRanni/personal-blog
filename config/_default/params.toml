@@ -113,13 +113,14 @@ smartTOCHideUnfocusedChildren = true
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyBKa37AzwNOxN7KGypoWPP6SlDNDuk5T8w",
+  authDomain = "blowfish-personal-blog.firebaseapp.com",
+  projectId = "blowfish-personal-blog",
+  storageBucket = "blowfish-personal-blog.appspot.com",
+  messagingSenderId = "707123951398",
+  appId = "1:707123951398:web:1bf67a259e07becc4ff3e7",
+  measurementId = "G-TRMPDXTNNX"
+
 
 [fathomAnalytics]
   # site = "ABC12345"
