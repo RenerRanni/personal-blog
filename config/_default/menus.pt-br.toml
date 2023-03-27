@@ -9,9 +9,9 @@
   weight = 20
 
 [[main]]
-  name = "A"
+  name = "cat1"
   parent = "Categorias"
-  pageRef = ""
+  pageRef = "cat1"
   weight = 10
 
 [[main]]
