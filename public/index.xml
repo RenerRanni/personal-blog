@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home - Blog - Rener Rannieri on </title>
+    <title>Home - Blog - Rener Rannieri on Blog - Rener Rannieri</title>
     <link>http://blog.renergarden.online/</link>
-    <description>Recent content in Home - Blog - Rener Rannieri on </description>
+    <description>Recent content in Home - Blog - Rener Rannieri on Blog - Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.renergarden.online/index.xml" rel="self" type="application/rss+xml" />
@@ -55,16 +55,6 @@
       <guid>http://blog.renergarden.online/posts/test-comments/</guid>
       <description>Blowfish provides a fully flexible homepage layout.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://blog.renergarden.online/posts/test-comments/featured.png" />
-    </item>
-    
-    <item>
-      <title>Categoria A</title>
-      <link>http://blog.renergarden.online/categories/categoria-a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.renergarden.online/categories/categoria-a/</guid>
-      <description>testando personalizar com taxonomia</description>
-      
     </item>
     
   </channel>
