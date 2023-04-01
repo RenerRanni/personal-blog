@@ -4,7 +4,7 @@ date: 2023-03-20
 draft: false
 description: "Inicializando sistema..."
 tags: [".system"]
-showComments: true
+showComments: false
 ---
 
 ![Image](img/robot.jpg " Dragon Ball GT - Gill Robot")
