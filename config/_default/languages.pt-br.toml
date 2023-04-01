@@ -7,7 +7,7 @@ rtl = false
 
 title = "Blog - Rener Rannieri"
 logo = "img/logo-gradient.png"
-description = "My awesome website"
+description = "👋🏾 Olá! Me chamo Rener e esse é meu Blog.Nesse espaço você vai encontrar artigos, ideias, pensamentos e experimentações."
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
