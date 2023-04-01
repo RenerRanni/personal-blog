@@ -13,7 +13,5 @@ showTaxonomies : false
 showWordCount : false
 showSummary : false
 sharingLinks : false
-
 ---
 
-Os *post's* são efemeros e simples. Eles vao ser listado aqui.

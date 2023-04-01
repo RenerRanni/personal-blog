@@ -1,7 +1,7 @@
 ---
-title: Taxonomia Personalizada
+title: Categorias
 ---
 
-Aqui vão ficar notas por filtro de categorias. Personalizar e informar que é um filtro que encontra as notas de cada categoria...
+As categorias funcionam como colunas de conteúdo padronizado. A diferença entre as *Tags* é que as categorias tem maior consistência ao longo do tempo.
 
 ---
